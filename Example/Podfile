@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Progressor_Example' do
+  pod 'Progressor', :path => '../'
+
+  target 'Progressor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
