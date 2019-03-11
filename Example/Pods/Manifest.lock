@@ -1,0 +1,16 @@
+PODS:
+  - Progressor (1.0)
+
+DEPENDENCIES:
+  - Progressor (from `../`)
+
+EXTERNAL SOURCES:
+  Progressor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Progressor: 866b0629815ca1e887b31d1fd6ab8dac95ed2c64
+
+PODFILE CHECKSUM: d793f69a4899dc6653ad29c72074872d27889b37
+
+COCOAPODS: 1.6.1

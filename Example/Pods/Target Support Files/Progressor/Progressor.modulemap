@@ -1,0 +1,6 @@
+framework module Progressor {
+  umbrella header "Progressor-umbrella.h"
+
+  export *
+  module * { export * }
+}
