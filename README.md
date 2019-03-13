@@ -48,19 +48,9 @@ You can easily start consuming the Progressor by creating the instance.
 
 ## View Structure
 
+- Use this structure to customize the UI elements.
 
-       -----------------------------------------------
-       -                                             -
-       -                                             -
-       -                                             -
-       -                                             -
-       -                                             -
-       -                                             -
-       -                                             -
-       -                                             -
-       -                                             -
-       -----------------------------------------------
-
+[![Progressor.png](https://i.postimg.cc/T1HG8yXH/Progressor.png)](https://postimg.cc/YLgTYC01)
 
 ## Author
 
