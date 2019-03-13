@@ -54,6 +54,9 @@ You can easily start consuming the Progressor by creating the instance.
 
 [![Progressor.png](https://i.postimg.cc/T1HG8yXH/Progressor.png)](https://postimg.cc/YLgTYC01)
 
+## Contribute
+Please feel free to create issues. Contributions are welcome [check here](https://github.com/firstcontributions/first-contributions)
+
 ## Author
 
 sathishvgs, vgsathish1995@gmail.com
