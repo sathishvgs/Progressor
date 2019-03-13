@@ -138,7 +138,7 @@ public class ProgressorView: UIView {
     }()
     
     
-    private let uploadDetailView = UIView()
+    open let uploadDetailView = UIView()
     let progressView = ProgressView()
     
     var isFirst = false
