@@ -272,7 +272,7 @@ extension ProgressorView {
         ]
         
         NSLayoutConstraint.activate(closeButtonConstraints)
-        closebutton.layer.cornerRadius = 40 / 2
+        closebutton.layer.cornerRadius = progressPoints.closebuttonWidth / 2
     }
     
     func pauseButton() {
@@ -288,7 +288,7 @@ extension ProgressorView {
         ]
         
         NSLayoutConstraint.activate(closeButtonConstraints)
-        pausebutton.layer.cornerRadius = 40 / 2
+        pausebutton.layer.cornerRadius = progressPoints.pausebuttonWidth / 2
     }
     
     func removeUploadDetailSubViews() {
