@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/Progressor.svg?style=flat)](https://cocoapods.org/pods/Progressor)
 [![Platform](https://img.shields.io/cocoapods/p/Progressor.svg?style=flat)](https://cocoapods.org/pods/Progressor)
 
+![Progressor_GIF](https://github.com/sathishvgs/Progressor/blob/master/Progressor_GIPHY.gif)
+
+## About Pod
+Progressor is the fully customized native Progress Bar. The use case of the pod is which will do the percentage and time left calculations by own. Just you have to update the progress value from 0.0 to 1.0. Also, we have opened the UI related things to make more customize.
+
 ## Requirments
 
 - Swift 4 or greater
@@ -22,9 +27,6 @@ pod 'Progressor'
 
 ## ChangeLogs
 For ChangeLogs, Please visit [Releases](https://github.com/sathishvgs/Progressor/releases)
-
-## About Pod
-Progressor is the fully customized native Progress Bar. The use case of the pod is which will do the percentage and time left calculations by own. Just you have to update the progress value from 0.0 to 1.0. Also, we have opened the UI related things to make more customize.
 
 ## How to Use?
 
